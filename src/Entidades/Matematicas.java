@@ -14,6 +14,7 @@ package Entidades;
 public class Matematicas {
    private int num1;
    private int num2;
+   private int num3;
 
     public Matematicas() {
     }
